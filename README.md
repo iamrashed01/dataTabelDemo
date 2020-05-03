@@ -1,2 +1,0 @@
-# dataTabelDemo
-Created with CodeSandbox
